@@ -56,4 +56,5 @@ If you are looking for a DataOps-focused engineering student who understands bot
 
 * **LinkedIn:** [linkedin.com/in/aboubakr-tahir](https://www.linkedin.com/in/aboubakr-tahir)
 * **Email:** [aboubakrtahir44@gmail.com](mailto:aboubakrtahir44@gmail.com)
-* **Resume:** [Click here to view my updated CV](#) *(Link your PDF here)*
+* **Resume:** [Click here to view my updated CV](./assets/Tahir_Aboubakr_CV.pdf)
+
