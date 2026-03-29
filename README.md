@@ -42,6 +42,15 @@ I am a 4th-year Data & Big Data Engineering student based in Casablanca, Morocco
 ## 💻 The Home Lab
 I believe in understanding systems from the bare metal up. To test my data pipelines and deployments locally, I converted an older laptop into a dedicated **Debian Linux home server**. This environment serves as my staging ground for Dockerized orchestration and VPN-secured data routing.
 
+
+## 🎥 Live Demo
+
+<video src="https://github.com/user-attachments/assets/0ae76f8d-e8aa-41d4-a5d6-70140f6555a1" controls="controls" style="max-width: 100%;">
+</video>
+
+
+
+
 ---
 
 ## 🚀 Currently Building & Learning
