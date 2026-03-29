@@ -27,7 +27,7 @@ I am a 4th-year Data & Big Data Engineering student based in Casablanca, Morocco
 * Scheduled jobs using Apache Airflow on Azure Spot Instances for cost optimization.
 * Modeled data into a Medallion Architecture star schema using dbt Core.
 
-> *[Insert Architecture Diagram Here: e.g., `![ELT Architecture](./assets/elt_architecture.png)`]*
+![ELT Architecture](./assets/azure_architecture.png)
 
 ### 2. Real-Time Edge-to-Cloud IoT Pipeline
 **Tech:** AWS (EC2), Apache NiFi, Apache Kafka, Apache Cassandra, Streamlit.
@@ -35,7 +35,7 @@ I am a 4th-year Data & Big Data Engineering student based in Casablanca, Morocco
 * Utilized Apache NiFi for JSON schema validation and routing into an Apache Kafka cluster.
 * Wrote a Python consumer to store data in Cassandra and visualize it live via Streamlit.
 
-> *[Insert Architecture Diagram Here: e.g., `![IoT Architecture](./assets/iot_architecture.png)`]*
+![ELT Architecture](./assets/Edge-to-Nosql.png)
 
 ---
 
