@@ -10,11 +10,13 @@ I am a 4th-year Data & Big Data Engineering student based in Casablanca, Morocco
 
 ## 🛠️ The Technical Arsenal
 
-**Cloud & Orchestration** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Cloud, Orchestration & DataOps** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**MLOps & Observability** ![MLflow](https://img.shields.io/badge/mlflow-%23d9efff.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Streaming & Big Data** ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
-**Languages & Core** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL%20-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+**Languages & Core** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL%20-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED2224.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -37,6 +39,16 @@ I am a 4th-year Data & Big Data Engineering student based in Casablanca, Morocco
 
 ![ELT Architecture](./assets/Edge-to-Nosql.png)
 
+### 3. Enterprise Data Observability & Fraud Detection Platform
+**Tech:** PostgreSQL, Google BigQuery, Apache Airflow, dbt Core, Great Expectations, MLflow, OpenLineage, Apache Superset.
+* Automated an end-to-end Medallion pipeline from local Postgres to daily-partitioned tables in BigQuery.
+* Enforced data quality guardrails using Great Expectations (GX Core) and dbt tests to prevent DWH pollution.
+* Fused an unsupervised Ensemble ML model (Autoencoder + Isolation Forest) via MLflow to isolate behavior fraud.
+* Implemented full-graph data lineage tracking and real-time schema evolution monitoring using OpenLineage and Marquez.
+* Generated isolated business-pure and quarantine Gold products mapped onto separate Apache Superset dashboards.
+
+![Data Observability Architecture](./assets/bank_data_observation_diagram.png)
+
 ---
 
 ## 💻 The Home Lab
@@ -47,9 +59,6 @@ I believe in understanding systems from the bare metal up. To test my data pipel
 
 <video src="https://github.com/user-attachments/assets/0ae76f8d-e8aa-41d4-a5d6-70140f6555a1" controls="controls" style="max-width: 100%;">
 </video>
-
-
-
 
 ---
 
@@ -66,4 +75,3 @@ If you are looking for a DataOps-focused engineering student who understands bot
 * **LinkedIn:** [linkedin.com/in/aboubakr-tahir](https://www.linkedin.com/in/aboubakr-tahir)
 * **Email:** [aboubakrtahir44@gmail.com](mailto:aboubakrtahir44@gmail.com)
 * **Resume:** [Click here to view my updated CV](./assets/Tahir_Aboubakr_CV.pdf)
-
