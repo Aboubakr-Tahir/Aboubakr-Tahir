@@ -1,28 +1,51 @@
 # 👋 Hi, I'm Aboubakr Tahir
 
-### **I write code to move, clean, and store data.**
+### **Data Engineering, Cloud Architecture & Sovereign AI Systems**
 
-I am a 4th-year Data & Big Data Engineering student based in Casablanca, Morocco. I specialize in building batch and streaming pipelines, managing cloud infrastructure, and setting up robust ELT/ETL workflows. 
+I am a 5th-year Big Data & Cloud/AI Engineering student based in Casablanca, Morocco. I specialize in building distributed batch and streaming pipelines, cloud infrastructure, and sovereign agentic AI systems.
 
-🎯 **Current Objective:** Actively seeking a 2-3 month **PFA Data Engineering Summer Internship (July - Sept 2026)** to tackle real-world DataOps and cloud engineering problems.
+🎯 **Current Objective:** Actively seeking a 4 to 6-month **PFE / End-of-Studies Graduation Internship (Feb – July 2027)** or opportunities in **Data Engineering, MLOps, or AI Engineering** to tackle challenging real-world problems.
 
 ---
 
 ## 🛠️ The Technical Arsenal
 
-**Cloud, Orchestration & DataOps** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Generative AI, LLMOps & Vector Search**  
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![DeepSeek R1](https://img.shields.io/badge/DeepSeek_R1-14B_AWQ_(vLLM)-7B1FA2?style=for-the-badge&logo=openai&logoColor=white) ![PostgreSQL pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white) ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**MLOps & Observability** ![MLflow](https://img.shields.io/badge/mlflow-%23d9efff.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Cloud, Orchestration & DataOps**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**Streaming & Big Data** ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)
+**MLOps & Observability**  
+![MLflow](https://img.shields.io/badge/mlflow-%23d9efff.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Languages & Core** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL%20-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED2224.svg?style=for-the-badge&logo=java&logoColor=white)
+**Streaming & Big Data**  
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)
+
+**Languages & Core**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL%20-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED2224.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ## 🏆 Featured Architectures
 
-### 1. Enterprise Hybrid Cloud ELT Platform
+### 1. [Segula AI Requirement Hub — Sovereign Enterprise AI Scoping Platform](https://github.com/Aboubakr-Tahir/Segula-AI-Requirement-Hub)
+**Tech:** DeepSeek-R1 (14B AWQ via vLLM), LangGraph, FastAPI, React 19 (Vite), PostgreSQL 17 (pgvector), Ollama, Google Cloud Run, Docker.
+* **Sovereign Agentic Workflow:** Architected a multi-turn conversational AI system orchestrating DeepSeek-R1 reasoning and domain agents via LangGraph to scope, score feasibility, and generate production-ready Statements of Work (SOW) in real time.
+* **Low-Latency LLMOps & Vector Search:** Self-hosted private 14B AWQ models with vLLM on dedicated GPU infrastructure, streaming real-time tokens via Server-Sent Events (SSE) through a secure proxy gateway, combined with Qwen3 dense embeddings and pgvector semantic retrieval.
+* **Production Cloud Deployment:** Automated full container build, database migrations, and CI/CD pipelines deploying frontend and backend microservices to Google Cloud Run with zero secrets leakage.
+
+#### 🎥 Video Demonstration:
+
+https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
+
+#### 🏛️ High-Level System Architecture:
+
+![Segula AI Hub Architecture](./assets/ai_hub_requirements_diagram.png)
+
+---
+
+### 2. Enterprise Hybrid Cloud ELT Platform
 **Tech:** Azure Blob Storage, Snowflake, Apache Airflow, dbt, Docker, Tailscale.
 * Built an ELT pipeline migrating on-premise SQL Server data into Snowflake on Azure.
 * Set up a Tailscale VPN to pull data securely without opening firewall ports.
@@ -31,7 +54,9 @@ I am a 4th-year Data & Big Data Engineering student based in Casablanca, Morocco
 
 ![ELT Architecture](./assets/azure_architecture.png)
 
-### 2. Real-Time Edge-to-Cloud IoT Pipeline
+---
+
+### 3. Real-Time Edge-to-Cloud IoT Pipeline
 **Tech:** AWS (EC2), Apache NiFi, Apache Kafka, Apache Cassandra, Streamlit.
 * Engineered a pipeline streaming hardware telemetry from a local Debian node to AWS EC2 over a secure VPN.
 * Utilized Apache NiFi for JSON schema validation and routing into an Apache Kafka cluster.
@@ -39,7 +64,9 @@ I am a 4th-year Data & Big Data Engineering student based in Casablanca, Morocco
 
 ![ELT Architecture](./assets/Edge-to-Nosql.png)
 
-### 3. Enterprise Data Observability & Fraud Detection Platform
+---
+
+### 4. Enterprise Data Observability & Fraud Detection Platform
 **Tech:** PostgreSQL, Google BigQuery, Apache Airflow, dbt Core, Great Expectations, MLflow, OpenLineage, Apache Superset.
 * Automated an end-to-end Medallion pipeline from local Postgres to daily-partitioned tables in BigQuery.
 * Enforced data quality guardrails using Great Expectations (GX Core) and dbt tests to prevent DWH pollution.
@@ -54,24 +81,24 @@ I am a 4th-year Data & Big Data Engineering student based in Casablanca, Morocco
 ## 💻 The Home Lab
 I believe in understanding systems from the bare metal up. To test my data pipelines and deployments locally, I converted an older laptop into a dedicated **Debian Linux home server**. This environment serves as my staging ground for Dockerized orchestration and VPN-secured data routing.
 
+### 🎥 Home Lab Live Demo
 
-## 🎥 Live Demo
-
-<video src="https://github.com/user-attachments/assets/0ae76f8d-e8aa-41d4-a5d6-70140f6555a1" controls="controls" style="max-width: 100%;">
-</video>
+https://github.com/user-attachments/assets/0ae76f8d-e8aa-41d4-a5d6-70140f6555a1
 
 ---
 
 ## 🚀 Currently Building & Learning
-* Refining advanced SQL querying (Window Functions, CTEs) for complex data warehouse modeling.
-* Deepening my hands-on deployment experience across major public clouds (AWS/GCP).
+* Sovereign Generative AI agents & local LLM fine-tuning/quantization (vLLM, Ollama, LangGraph).
+* Advanced Data Warehousing, medallion architectures, and dbt semantic layers.
+* Multi-cloud Infrastructure as Code (Terraform) and Kubernetes-native data engineering.
 
 ---
 
 ## 📫 Let's Connect
 
-If you are looking for a DataOps-focused engineering student who understands both the code and the infrastructure, let's talk.
+If you are looking for an ambitious engineering student who bridges the gap between DataOps, Cloud Infrastructure, and Production AI, let's connect:
 
+* **GitHub:** [github.com/Aboubakr-Tahir](https://github.com/Aboubakr-Tahir)
 * **LinkedIn:** [linkedin.com/in/aboubakr-tahir](https://www.linkedin.com/in/aboubakr-tahir)
 * **Email:** [aboubakrtahir44@gmail.com](mailto:aboubakrtahir44@gmail.com)
 * **Resume:** [Click here to view my updated CV](./assets/Tahir_Aboubakr_CV.pdf)
