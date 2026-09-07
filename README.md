@@ -4,8 +4,6 @@
 
 I am a 5th-year Big Data & Cloud/AI Engineering student based in Casablanca, Morocco. I specialize in building distributed batch and streaming pipelines, cloud infrastructure, and sovereign agentic AI systems.
 
-🎯 **Current Objective:** Actively seeking a 4 to 6-month **PFE / End-of-Studies Graduation Internship (Feb – July 2027)** or opportunities in **Data Engineering, MLOps, or AI Engineering** to tackle challenging real-world problems.
-
 ---
 
 ## 🛠️ The Technical Arsenal
