@@ -2,7 +2,7 @@
 
 ### **Data Engineering, Cloud Architecture & Sovereign AI Systems**
 
-I am a 5th-year Big Data & Cloud/AI Engineering student based in Casablanca, Morocco. I specialize in building distributed batch and streaming pipelines, cloud infrastructure, and sovereign agentic AI systems.
+I am a 5th year Big Data & Cloud/AI Engineering student based in Casablanca, Morocco. I specialize in building distributed batch and streaming pipelines, cloud infrastructure, and sovereign agentic AI systems.
 
 ---
 
