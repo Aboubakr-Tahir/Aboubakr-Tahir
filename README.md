@@ -1,8 +1,14 @@
-# 👋 Hi, I'm Aboubakr Tahir
+<div align="center">
+  <img src="./assets/profile-card.svg" alt="Aboubakr Tahir Terminal Profile" width="100%" />
+</div>
 
-### **Data Engineering, Cloud Architecture & Sovereign AI Systems**
+<br/>
 
-I am a 5th year Big Data & Cloud/AI Engineering student based in Casablanca, Morocco. I specialize in building distributed batch and streaming pipelines, cloud infrastructure, and sovereign agentic AI systems.
+## 👨‍💻 About Me
+
+### **Big Data / AI Engineer**
+
+I am a 5th year Big Data & AI Engineering student based in Casablanca, Morocco. I specialize in building distributed batch and streaming pipelines, cloud infrastructure, and sovereign agentic AI systems.
 
 ---
 
@@ -29,15 +35,15 @@ I am a 5th year Big Data & Cloud/AI Engineering student based in Casablanca, Mor
 
 ### 1. [Segula AI Requirement Hub — Sovereign Enterprise AI Scoping Platform](https://github.com/Aboubakr-Tahir/Segula-AI-Requirement-Hub)
 **Tech:** DeepSeek-R1 (14B AWQ via vLLM), LangGraph, FastAPI, React 19 (Vite), PostgreSQL 17 (pgvector), Ollama, Google Cloud Run, Docker.
-* **Sovereign Agentic Workflow:** Architected a multi-turn conversational AI system orchestrating DeepSeek-R1 reasoning and domain agents via LangGraph to scope, score feasibility, and generate production-ready Statements of Work (SOW) in real time.
-* **Low-Latency LLMOps & Vector Search:** Self-hosted private 14B AWQ models with vLLM on dedicated GPU infrastructure, streaming real-time tokens via Server-Sent Events (SSE) through a secure proxy gateway, combined with Qwen3 dense embeddings and pgvector semantic retrieval.
+* **Sovereign Agentic Workflow:** Architected a multi turn conversational AI system orchestrating DeepSeek-R1 reasoning and domain agents via LangGraph to scope, score feasibility, and generate production ready Statements of Work (SOW) in real time.
+* **Low Latency LLMOps & Vector Search:** Self-hosted private 14B AWQ models with vLLM on dedicated GPU infrastructure, streaming real time tokens via Server-Sent Events (SSE) through a secure proxy gateway, combined with Qwen3 dense embeddings and pgvector semantic retrieval.
 * **Production Cloud Deployment:** Automated full container build, database migrations, and CI/CD pipelines deploying frontend and backend microservices to Google Cloud Run with zero secrets leakage.
 
 #### 🎥 Video Demonstration:
 
 https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
 
-#### 🏛️ High-Level System Architecture:
+#### 🏛️ High Level System Architecture:
 
 ![Segula AI Hub Architecture](./assets/ai_hub_requirements_diagram.png)
 
@@ -45,7 +51,7 @@ https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
 
 ### 2. Enterprise Hybrid Cloud ELT Platform
 **Tech:** Azure Blob Storage, Snowflake, Apache Airflow, dbt, Docker, Tailscale.
-* Built an ELT pipeline migrating on-premise SQL Server data into Snowflake on Azure.
+* Built an ELT pipeline migrating on premise SQL Server data into Snowflake on Azure.
 * Set up a Tailscale VPN to pull data securely without opening firewall ports.
 * Scheduled jobs using Apache Airflow on Azure Spot Instances for cost optimization.
 * Modeled data into a Medallion Architecture star schema using dbt Core.
@@ -54,7 +60,7 @@ https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
 
 ---
 
-### 3. Real-Time Edge-to-Cloud IoT Pipeline
+### 3. Real Time Edge to Cloud IoT Pipeline
 **Tech:** AWS (EC2), Apache NiFi, Apache Kafka, Apache Cassandra, Streamlit.
 * Engineered a pipeline streaming hardware telemetry from a local Debian node to AWS EC2 over a secure VPN.
 * Utilized Apache NiFi for JSON schema validation and routing into an Apache Kafka cluster.
@@ -66,18 +72,18 @@ https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
 
 ### 4. Enterprise Data Observability & Fraud Detection Platform
 **Tech:** PostgreSQL, Google BigQuery, Apache Airflow, dbt Core, Great Expectations, MLflow, OpenLineage, Apache Superset.
-* Automated an end-to-end Medallion pipeline from local Postgres to daily-partitioned tables in BigQuery.
+* Automated an end to end Medallion pipeline from local Postgres to daily partitioned tables in BigQuery.
 * Enforced data quality guardrails using Great Expectations (GX Core) and dbt tests to prevent DWH pollution.
 * Fused an unsupervised Ensemble ML model (Autoencoder + Isolation Forest) via MLflow to isolate behavior fraud.
-* Implemented full-graph data lineage tracking and real-time schema evolution monitoring using OpenLineage and Marquez.
-* Generated isolated business-pure and quarantine Gold products mapped onto separate Apache Superset dashboards.
+* Implemented full graph data lineage tracking and real time schema evolution monitoring using OpenLineage and Marquez.
+* Generated isolated business pure and quarantine Gold products mapped onto separate Apache Superset dashboards.
 
 ![Data Observability Architecture](./assets/bank_data_observation_diagram.png)
 
 ---
 
 ## 💻 The Home Lab
-I believe in understanding systems from the bare metal up. To test my data pipelines and deployments locally, I converted an older laptop into a dedicated **Debian Linux home server**. This environment serves as my staging ground for Dockerized orchestration and VPN-secured data routing.
+I believe in understanding systems from the bare metal up. To test my data pipelines and deployments locally, I converted an older laptop into a dedicated **Debian Linux home server**. This environment serves as my staging ground for Dockerized orchestration and VPN secured data routing.
 
 ### 🎥 Home Lab Live Demo
 
@@ -86,9 +92,9 @@ https://github.com/user-attachments/assets/0ae76f8d-e8aa-41d4-a5d6-70140f6555a1
 ---
 
 ## 🚀 Currently Building & Learning
-* Sovereign Generative AI agents & local LLM fine-tuning/quantization (vLLM, Ollama, LangGraph).
+* Sovereign Generative AI agents & local LLM fine tuning / quantization (vLLM, Ollama, LangGraph).
 * Advanced Data Warehousing, medallion architectures, and dbt semantic layers.
-* Multi-cloud Infrastructure as Code (Terraform) and Kubernetes-native data engineering.
+* Multi cloud Infrastructure as Code (Terraform) and Kubernetes native data engineering.
 
 ---
 
