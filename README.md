@@ -98,16 +98,6 @@ https://github.com/user-attachments/assets/0ae76f8d-e8aa-41d4-a5d6-70140f6555a1
 
 ---
 
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aboubakr-Tahir/Aboubakr-Tahir/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aboubakr-Tahir/Aboubakr-Tahir/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Aboubakr-Tahir/Aboubakr-Tahir/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
----
-
 ## 📫 Let's Connect
 
 If you are looking for an ambitious engineering student who bridges the gap between DataOps, Cloud Infrastructure, and Production AI, let's connect:
