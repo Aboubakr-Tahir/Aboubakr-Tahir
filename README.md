@@ -6,61 +6,9 @@
 
 ## 👨‍💻 About Me
 
-### **Big Data / AI Engineer**
+### **Data Engineer | Batch & Streaming Pipelines | Cloud Data Platforms**
 
-I am a 5th year Big Data & AI Engineering student based in Casablanca, Morocco. I specialize in building distributed batch and streaming pipelines, cloud infrastructure, and sovereign agentic AI systems.
-
----
-
-## 🛠️ The Technical Arsenal
-
-**Generative AI, LLMOps & Vector Search**  
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![DeepSeek R1](https://img.shields.io/badge/DeepSeek_R1-14B_AWQ_(vLLM)-7B1FA2?style=for-the-badge&logo=openai&logoColor=white) ![PostgreSQL pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white) ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Cloud, Orchestration & DataOps**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-**MLOps & Observability**  
-![MLflow](https://img.shields.io/badge/mlflow-%23d9efff.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Streaming & Big Data**  
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)
-
-**Languages & Core**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL%20-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED2224.svg?style=for-the-badge&logo=java&logoColor=white)
-
----
-
-## 💼 Professionel Experience
-
-### 1. [Segula AI Requirement Hub — Sovereign Enterprise AI Scoping Platform](https://github.com/Aboubakr-Tahir/Segula-AI-Requirement-Hub)
-**Tech:** DeepSeek-R1 (14B AWQ via vLLM), LangGraph, FastAPI, React 19 (Vite), PostgreSQL 17 (pgvector), Ollama, Google Cloud Run, Docker.
-* **Sovereign Agentic Workflow:** Architected a multi turn conversational AI system orchestrating DeepSeek-R1 reasoning and domain agents via LangGraph to scope, score feasibility, and generate production ready Statements of Work (SOW) in real time.
-* **Low Latency LLMOps & Vector Search:** Self-hosted private 14B AWQ models with vLLM on dedicated GPU infrastructure, streaming real time tokens via Server-Sent Events (SSE) through a secure proxy gateway, combined with Qwen3 dense embeddings and pgvector semantic retrieval.
-* **Production Cloud Deployment:** Automated full container build, database migrations, and CI/CD pipelines deploying frontend and backend microservices to Google Cloud Run with zero secrets leakage.
-
-#### 🎥 Video Demonstration:
-
-https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
-
-#### 🏛️ High Level System Architecture:
-
-![Segula AI Hub Architecture](./assets/ai_hub_requirements_diagram.png)
-
----
-
-### 2. Peacock — Agentic Excel Data Cleaning & Statistical EDA Platform
-
-**Tech:** FastAPI, Python, Pandas, Plotly, Agno, GPT-4o, OpenPyXL, LaTeX.
-
-* Developed an autonomous agentic platform automating enterprise Excel data cleaning and statistical EDA.
-* Automated multi sheet data cleaning, cutting manual spreadsheet preparation time by 85%.
-* Engineered an automated imputation and anomaly resolution pipeline across 50+ monthly sheets.
-* Automated executive report publishing by compiling LaTeX documents with embedded Plotly charts in under 30s.
-
-#### 🏛️ High Level System Architecture:
-
-![Peacock Platform Architecture](./assets/peacock_diagram.png)
+I am a final-year Big Data & AI Engineering student based in Casablanca, Morocco, focused on data engineering. I build batch and streaming pipelines, cloud data warehouses, and data quality workflows using Python, SQL, Airflow, dbt, Kafka, and Snowflake. My professional experience also includes AI applications for enterprise automation.
 
 ---
 
@@ -99,6 +47,55 @@ https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
 
 ---
 
+## 💼 Professional Experience
+
+### 1. [Segula AI Requirement Hub — Sovereign Enterprise AI Scoping Platform](https://github.com/Aboubakr-Tahir/Segula-AI-Requirement-Hub)
+**Tech:** PostgreSQL 17 (pgvector), FastAPI, Google Cloud Run, Docker, LangGraph, DeepSeek-R1 (14B AWQ via vLLM), Ollama, React 19 (Vite).
+
+* **Cloud Infrastructure & Database Migrations:** Automated container builds, database migrations, and CI/CD pipelines to deploy frontend and backend services to Google Cloud Run.
+* **Semantic Retrieval & Model Serving:** Combined Qwen3 embeddings and PostgreSQL pgvector search with private DeepSeek-R1 models hosted via vLLM on dedicated GPUs, streaming responses through a secure proxy gateway.
+* **Enterprise AI Workflow:** Built a conversational system using LangGraph and domain agents to scope requirements, assess feasibility, and generate Statements of Work (SOW) in real time.
+
+#### 🎥 Video Demonstration:
+
+https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
+
+#### 🏛️ High Level System Architecture:
+
+![Segula AI Hub Architecture](./assets/ai_hub_requirements_diagram.png)
+
+---
+
+### 2. Peacock — Excel Data Quality & Reporting Automation
+
+**Tech:** FastAPI, Python, Pandas, Plotly, Agno, GPT-4o, OpenPyXL, LaTeX.
+
+* Developed an autonomous agentic platform automating enterprise Excel data cleaning and statistical EDA.
+* Automated multi sheet data cleaning, cutting manual spreadsheet preparation time by 85%.
+* Engineered an automated imputation and anomaly resolution pipeline across 50+ monthly sheets.
+* Automated executive report publishing by compiling LaTeX documents with embedded Plotly charts in under 30s.
+
+#### 🏛️ High Level System Architecture:
+
+![Peacock Platform Architecture](./assets/peacock_diagram.png)
+
+---
+
+## 🛠️ Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| Languages & Querying | Python, SQL, Scala, Bash, Java |
+| Pipelines & Orchestration | Apache Airflow, dbt, Apache NiFi, Pandas |
+| Warehousing & Data Modeling | Snowflake, BigQuery, PostgreSQL, Medallion Architecture, Star Schemas |
+| Data Quality & Lineage | Great Expectations, dbt tests, OpenLineage, Marquez |
+| Streaming & Big Data | Apache Kafka, Apache Spark, Cassandra, Hadoop |
+| Cloud & Infrastructure | Azure, AWS, GCP, Docker, Linux, Tailscale |
+
+**Additional AI Experience:** LangGraph, FastAPI, Agno, pgvector, vLLM, Ollama, MLflow.
+
+---
+
 ## 💻 The Home Lab
 I believe in understanding systems from the bare metal up. To test my data pipelines and deployments locally, I converted an older laptop into a dedicated **Debian Linux home server**. This environment serves as my staging ground for Dockerized orchestration and VPN secured data routing.
 
@@ -109,15 +106,16 @@ https://github.com/user-attachments/assets/0ae76f8d-e8aa-41d4-a5d6-70140f6555a1
 ---
 
 ## 🚀 Currently Building & Learning
-* Sovereign Generative AI agents & local LLM fine tuning / quantization (vLLM, Ollama, LangGraph).
-* Advanced Data Warehousing, medallion architectures, and dbt semantic layers.
-* Multi cloud Infrastructure as Code (Terraform) and Kubernetes native data engineering.
+
+* Advanced data warehousing, Medallion Architecture, and dbt semantic layers.
+* Pipeline orchestration, data quality, and lineage across batch and streaming workloads.
+* Infrastructure as Code with Terraform and data engineering deployments on Kubernetes.
 
 ---
 
 ## 📫 Let's Connect
 
-If you are looking for an ambitious engineering student who bridges the gap between DataOps, Cloud Infrastructure, and Production AI, let's connect:
+Interested in data engineering opportunities focused on reliable pipelines, cloud data platforms, and data quality. Let's connect:
 
 * **GitHub:** [github.com/Aboubakr-Tahir](https://github.com/Aboubakr-Tahir)
 * **LinkedIn:** [linkedin.com/in/aboubakr-tahir](https://www.linkedin.com/in/aboubakr-tahir)
