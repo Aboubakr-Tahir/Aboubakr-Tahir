@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-### **Data Engineer | Batch & Streaming Pipelines | Cloud Data Platforms**
+### **Data Engineer & AI Engineer**
 
-I am a final-year Big Data & AI Engineering student based in Casablanca, Morocco, focused on data engineering. I build batch and streaming pipelines, cloud data warehouses, and data quality workflows using Python, SQL, Airflow, dbt, Kafka, and Snowflake. My professional experience also includes AI applications for enterprise automation.
+I am a final-year Big Data & AI Engineering student based in Casablanca, Morocco, with a foundation in data engineering. I build batch and streaming pipelines, cloud data warehouses, and data quality workflows using Python, SQL, Airflow, dbt, Kafka, and Snowflake. I apply that expertise to build production AI platforms, combining data processing, semantic retrieval, and agent orchestration to automate enterprise workflows.
 
 ---
 
@@ -100,7 +100,7 @@ https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
 | Streaming & Big Data | Apache Kafka, Apache Spark, Cassandra, Hadoop |
 | Cloud & Infrastructure | Azure, AWS, GCP, Docker, Linux, Tailscale |
 
-**Additional AI Experience:** LangGraph, FastAPI, Agno, pgvector, vLLM, Ollama, MLflow.
+**AI Platform Engineering:** LangGraph, FastAPI, Agno, pgvector, vLLM, Ollama, MLflow.
 
 ---
 
@@ -118,12 +118,13 @@ https://github.com/user-attachments/assets/0ae76f8d-e8aa-41d4-a5d6-70140f6555a1
 * Advanced data warehousing, Medallion Architecture, and dbt semantic layers.
 * Pipeline orchestration, data quality, and lineage across batch and streaming workloads.
 * Infrastructure as Code with Terraform and data engineering deployments on Kubernetes.
+* Production AI platforms, agent orchestration, and private model serving with LangGraph and vLLM.
 
 ---
 
 ## 📫 Let's Connect
 
-Interested in data engineering opportunities focused on reliable pipelines, cloud data platforms, and data quality. Let's connect:
+Interested in data engineering opportunities spanning reliable pipelines, cloud data platforms, and the data foundations of production AI. Let's connect:
 
 * **GitHub:** [github.com/Aboubakr-Tahir](https://github.com/Aboubakr-Tahir)
 * **LinkedIn:** [linkedin.com/in/aboubakr-tahir](https://www.linkedin.com/in/aboubakr-tahir)
