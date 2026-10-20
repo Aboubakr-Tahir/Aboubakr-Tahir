@@ -50,11 +50,19 @@ I am a final-year Big Data & AI Engineering student based in Casablanca, Morocco
 ## 💼 Professional Experience
 
 ### 1. [Segula AI Requirement Hub — Sovereign Enterprise AI Scoping Platform](https://github.com/Aboubakr-Tahir/Segula-AI-Requirement-Hub)
-**Tech:** PostgreSQL 17 (pgvector), FastAPI, Google Cloud Run, Docker, LangGraph, DeepSeek-R1 (14B AWQ via vLLM), Ollama, React 19 (Vite).
 
-* **Cloud Infrastructure & Database Migrations:** Automated container builds, database migrations, and CI/CD pipelines to deploy frontend and backend services to Google Cloud Run.
-* **Semantic Retrieval & Model Serving:** Combined Qwen3 embeddings and PostgreSQL pgvector search with private DeepSeek-R1 models hosted via vLLM on dedicated GPUs, streaming responses through a secure proxy gateway.
-* **Enterprise AI Workflow:** Built a conversational system using LangGraph and domain agents to scope requirements, assess feasibility, and generate Statements of Work (SOW) in real time.
+**AI & Data Engineer (Work Study / Alternance)** — Sept. 2026 – Jan. 2027
+
+* Ongoing work study internship: scaling and continuous deployment of production AI systems.
+
+**PFA Intern – AI & Data Engineer** — July 2026 – Aug. 2026
+
+* Deployed an internal AI platform used by 6 business departments (HR, Finance, Legal, IT, Support, Costing) to convert raw business requests into vetted technical architectures and formal Statements of Work (SOW).
+* Engineered a 5 pillar factual scoring engine with Human in the Loop clarification to vet project viability.
+* Slashed technical feasibility review turnaround from 2 to 3 weeks to under 4 minutes (>95% time reduction).
+* Architected a multi agent StateGraph workflow orchestrating FastAPI, LangGraph, and PostgreSQL (pgvector).
+* Served private DeepSeek R1 via vLLM to 11 concurrent users with an automated 1,000 query queue (&lt;500ms TTFT).
+* Automated GitHub Actions CI/CD to deploy multi stage Docker containers onto serverless Google Cloud Run.
 
 #### 🎥 Video Demonstration:
 
