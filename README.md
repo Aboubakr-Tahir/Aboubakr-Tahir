@@ -31,7 +31,7 @@ I am a 5th year Big Data & AI Engineering student based in Casablanca, Morocco. 
 
 ---
 
-## 🏆 Featured Architectures
+## 💼 Professionel Experience
 
 ### 1. [Segula AI Requirement Hub — Sovereign Enterprise AI Scoping Platform](https://github.com/Aboubakr-Tahir/Segula-AI-Requirement-Hub)
 **Tech:** DeepSeek-R1 (14B AWQ via vLLM), LangGraph, FastAPI, React 19 (Vite), PostgreSQL 17 (pgvector), Ollama, Google Cloud Run, Docker.
@@ -49,7 +49,24 @@ https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
 
 ---
 
-### 2. Enterprise Hybrid Cloud ELT Platform
+### 2. Peacock — Agentic Excel Data Cleaning & Statistical EDA Platform
+
+**Tech:** FastAPI, Python, Pandas, Plotly, Agno, GPT-4o, OpenPyXL, LaTeX.
+
+* Developed an autonomous agentic platform automating enterprise Excel data cleaning and statistical EDA.
+* Automated multi sheet data cleaning, cutting manual spreadsheet preparation time by 85%.
+* Engineered an automated imputation and anomaly resolution pipeline across 50+ monthly sheets.
+* Automated executive report publishing by compiling LaTeX documents with embedded Plotly charts in under 30s.
+
+#### 🏛️ High Level System Architecture:
+
+![Peacock Platform Architecture](./assets/peacock_diagram.png)
+
+---
+
+## 🏆 Data Engineering Projects
+
+### 1. Enterprise Hybrid Cloud ELT Platform
 **Tech:** Azure Blob Storage, Snowflake, Apache Airflow, dbt, Docker, Tailscale.
 * Built an ELT pipeline migrating on premise SQL Server data into Snowflake on Azure.
 * Set up a Tailscale VPN to pull data securely without opening firewall ports.
@@ -60,7 +77,7 @@ https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
 
 ---
 
-### 3. Real Time Edge to Cloud IoT Pipeline
+### 2. Real Time Edge to Cloud IoT Pipeline
 **Tech:** AWS (EC2), Apache NiFi, Apache Kafka, Apache Cassandra, Streamlit.
 * Engineered a pipeline streaming hardware telemetry from a local Debian node to AWS EC2 over a secure VPN.
 * Utilized Apache NiFi for JSON schema validation and routing into an Apache Kafka cluster.
@@ -70,7 +87,7 @@ https://github.com/user-attachments/assets/7ef2b1dc-d543-42af-a7cd-0791be6ed310
 
 ---
 
-### 4. Enterprise Data Observability & Fraud Detection Platform
+### 3. Enterprise Data Observability & Fraud Detection Platform
 **Tech:** PostgreSQL, Google BigQuery, Apache Airflow, dbt Core, Great Expectations, MLflow, OpenLineage, Apache Superset.
 * Automated an end to end Medallion pipeline from local Postgres to daily partitioned tables in BigQuery.
 * Enforced data quality guardrails using Great Expectations (GX Core) and dbt tests to prevent DWH pollution.
