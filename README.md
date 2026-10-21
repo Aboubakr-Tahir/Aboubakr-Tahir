@@ -26,10 +26,10 @@ I am a final-year Big Data & AI Engineering student based in Casablanca, Morocco
 ---
 
 ### 2. Real Time Edge to Cloud IoT Pipeline
-**Tech:** AWS (EC2), Apache NiFi, Apache Kafka, Apache Cassandra, Streamlit.
+**Tech:** AWS (EC2), Apache NiFi, Apache Kafka, Apache Spark, Apache Cassandra, Streamlit.
 * Engineered a pipeline streaming hardware telemetry from a local Debian node to AWS EC2 over a secure VPN.
-* Utilized Apache NiFi for JSON schema validation and routing into an Apache Kafka cluster.
-* Wrote a Python consumer to store data in Cassandra and visualize it live via Streamlit.
+* Streaming PySpark (fenêtrage 10s et watermarking) depuis Kafka vers Cassandra avec latence d'écriture <500ms
+* Wrote a Spark consumer to store data in Cassandra and visualize it live via Streamlit.
 
 ![ELT Architecture](./assets/Edge-to-Nosql.png)
 
