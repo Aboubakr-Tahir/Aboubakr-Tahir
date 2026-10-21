@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-card.svg" alt="Aboubakr Tahir Terminal Profile" width="100%" />
+  <img src="./assets/profile-card.svg?v=data-ai-engineer" alt="Aboubakr Tahir — Data Engineer &amp; AI Engineer" width="100%" />
 </div>
 
 <br/>
